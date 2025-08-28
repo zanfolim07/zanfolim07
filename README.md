@@ -1,4 +1,4 @@
-💻 Olá! Sou Guilherme Zanfolim, estudante do último ano no **Colégio de Aplicação Técnico**, cursando **Técnico em Informática (T.I.)**.  
-Durante o curso, aprendi e continuo praticando **programação, redes de computadores, banco de dados e desenvolvimento web**.  
-Também tenho experiência com **Adobe Illustrator** e **Adobe Photoshop**, criando designs, ilustrações e elementos visuais para projetos.  
-Estou sempre buscando evoluir por meio de projetos práticos, aplicando conceitos aprendidos e explorando novas tecnologias.
+💻 Olá! Sou Guilherme Zanfolim, estudante do último ano em **Técnico em Informática (T.I.)**.  
+Adoro explorar novas tecnologias, aprender programação e criar projetos que desafiam minhas habilidades.  
+Também tenho experiência com **Illustrator** e **Photoshop**, criando designs e elementos visuais para meus projetos.  
+Meu objetivo é **aprimorar minhas habilidades a cada dia**.
