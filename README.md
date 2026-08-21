@@ -1,7 +1,7 @@
 # Olá, eu sou Guilherme Zanfolim
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP**
-💻 **Desenvolvedor em formação | Front-end & Full Stack**
+💻 **Desenvolvedor em formação | Full Stack**
 🚀 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
 
 ---
