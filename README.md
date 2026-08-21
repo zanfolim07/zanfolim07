@@ -18,27 +18,6 @@ Também possuo interesse em **UI/UX Design, prototipação e identidade visual**
 
 ---
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-### Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,nodejs" />
-
-### Banco de Dados & Versionamento
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker" />
-
-### Design & Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,idea" />
-
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zanfolim07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanfolim07&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,nodejs,mysql,postgresql,git,github,figma,ps,ai,vscode,idea" />
