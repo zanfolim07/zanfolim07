@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme Zanfolim
+# Olá, eu sou Guilherme Zanfolim
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP**
 💻 **Desenvolvedor em formação | Front-end & Full Stack**
@@ -18,58 +18,20 @@ Também possuo interesse em **UI/UX Design, prototipação e identidade visual**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,nodejs" />
 
-### 🗄️ Banco de Dados & Versionamento
+### Banco de Dados & Versionamento
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker" />
 
-### 🎨 Design & Desenvolvimento
+### Design & Desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,idea" />
 
----
-
-## 📚 Atualmente estudando
-
-* ⚛️ **React.js**
-* 🟨 **JavaScript**
-* ☕ **Java**
-* 🐍 **Python**
-* 🟢 **Node.js**
-* 🗄️ **SQL & Banco de Dados**
-* 🔀 **Git & GitHub**
-* 🐳 **Docker**
-* 🏗️ **Desenvolvimento Full Stack**
-* 🎨 **UI/UX & Design de Interfaces**
-
----
-
-## 🚀 Projetos
-
-### 🌱 SoulUp — Gamificação Sustentável
-
-Sistema de gamificação voltado para sustentabilidade, utilizando desafios, pontuação, validação de evidências e mecanismos antifraude.
-
-**Tecnologias:** React, TypeScript, Node.js, NestJS, PostgreSQL, Redis e AWS.
-
-### 🛒 E-commerce
-
-Projeto de comércio eletrônico desenvolvido durante minha formação em TI, envolvendo **front-end, estrutura de páginas, produtos, carrinho e experiência de compra**.
-
-### 💈 Sistema para Barbearia
-
-Aplicação Full Stack para **agendamento de serviços**, desenvolvida com foco em experiência do usuário e gerenciamento de horários.
-
-**Tecnologias:** HTML, CSS, JavaScript, PHP, MySQL e XAMPP.
-
-### 🏋️ FitLife
-
-Aplicação web voltada para acompanhamento de saúde e bem-estar, com funcionalidades como **IMC, TMB e cálculo de consumo diário de água**.
 
 ---
 
