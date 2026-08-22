@@ -1,10 +1,9 @@
 # Olá, eu sou Guilherme Zanfolim
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP**
-💻 **Desenvolvedor em formação | Full Stack**
-🚀 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções digitais.
+**Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FIAP**
+**Desenvolvedor em formação | Full Stack**
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com formação técnica em **Tecnologia da Informação** e interesse em **Desenvolvimento Web, Engenharia de Software e soluções Full Stack**.
 
@@ -14,6 +13,6 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript, React, Java, 
 
 Também possuo interesse em **UI/UX Design, prototipação e identidade visual**, unindo desenvolvimento e design para criar experiências digitais mais completas.
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,mysql,git,github,figma,ps,ai,vscode,idea" />
