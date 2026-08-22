@@ -16,4 +16,4 @@ Também possuo interesse em **UI/UX Design, prototipação e identidade visual**
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,nodejs,mysql,postgresql,git,github,figma,ps,ai,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,php,mysql,git,github,figma,ps,ai,vscode,idea" />
